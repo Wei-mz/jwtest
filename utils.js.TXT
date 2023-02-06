@@ -16,3 +16,5 @@ addd for login
 
 6.本地产库修改
 远程仓库修改2  6666
+
+2.6--hello add 开飞机
